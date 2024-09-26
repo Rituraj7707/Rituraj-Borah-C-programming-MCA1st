@@ -1,5 +1,6 @@
 //Simple calculator using function
-// Rituraj Borah, 26-09-2024
+//prog name: Rituraj Borah
+//prog date: 26-09-2024
 
 #include <stdio.h>
 int add(int a, int b) {
