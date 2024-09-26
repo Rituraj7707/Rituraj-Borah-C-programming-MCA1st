@@ -1,5 +1,6 @@
 //find largest of three numbers using function
-//Rituraj Borah, 26-09-2024
+//prog name: Rituraj Borah
+//prog date: 26-09-2024
 
 #include <stdio.h>
 findLargest(int num1, int num2, int num3);
